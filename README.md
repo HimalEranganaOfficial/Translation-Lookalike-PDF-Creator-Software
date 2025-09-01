@@ -5,3 +5,5 @@ pdf to jpg
 add popler 
 python evirement select path 
 restart pycharm
+
+pip autopy to exp
